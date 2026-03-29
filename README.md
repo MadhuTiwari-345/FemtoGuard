@@ -1,7 +1,10 @@
 
 # 🛡️ GFGBQ – Team SheStorm  
+
+
 ## Real-Time Audio Fraud Detection for Scam Prevention  
 ### Conversation Intelligence for the AI vs AI Era (2026)
+
 
 > **Social Cause Track – Vibe Coding Hackathon**  
 > *In a world where every voice can be cloned, intent cannot hide.*
