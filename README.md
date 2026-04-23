@@ -3,7 +3,7 @@
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F5D4&center=true&vCenter=true&width=700&lines=Real-Time+Audio+Fraud+Detection+🛡️;AI+vs+AI+Defense+System+⚡;Conversation+Intelligence+Engine+🧠;Protecting+Users+from+Scams+🚨"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F5D4&center=true&vCenter=true&width=650&lines=Real-Time+Fraud+Detection+%F0%9F%9B%A1%EF%B8%8F;AI+Defense+System+%E2%9A%A1;Conversation+Intelligence+%F0%9F%A7%A0"/>
 </p>
 
 ---
