@@ -3,7 +3,7 @@
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
+  <b>🛡️ Real-Time Audio Fraud Detection • AI vs AI Defense • Conversation Intelligence</b>
 </p>
 
 ---
