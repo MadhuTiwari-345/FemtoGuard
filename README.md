@@ -1,313 +1,278 @@
+<!-- 🛡️ Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=FemtoGuard&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-# 🛡️ FemtoGuard – Team SheStorm  
-
-
-## Real-Time Audio Fraud Detection for Scam Prevention  
-### Conversation Intelligence for the AI vs AI Era (2026)
-
-
-> **Social Cause Track – Vibe Coding Hackathon**  
-> *In a world where every voice can be cloned, intent cannot hide.*
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F5D4&center=true&vCenter=true&width=700&lines=Real-Time+Audio+Fraud+Detection+🛡️;AI+vs+AI+Defense+System+⚡;Conversation+Intelligence+Engine+🧠;Protecting+Users+from+Scams+🚨"/>
+</p>
 
 ---
 
-## 🌐 Live Application
+# 🛡️ FemtoGuard – Team SheStorm  
 
-🔗 **View App:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-00f5d4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--Time-Detection-00c2ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity-darkblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathon-Vibe%20Coding-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Real-Time Audio Fraud Detection for Scam Prevention</b><br/>
+  <i>Conversation Intelligence for the AI vs AI Era (2026)</i>
+</p>
+
+---
+
+## 🌐 Live Demo
+
+🔗 **App:**  
 https://shestorm-ai-fraud-defender-73291669658.us-west1.run.app  
 
-📂 **Demo + PPT (PDF):**  
-https://drive.google.com/drive/folders/1y_DknpPaxDXdqYZMj07zlWCOonYMsOap?usp=sharing  
+📂 **Demo + PPT:**  
+https://drive.google.com/drive/folders/1y_DknpPaxDXdqYZMj07zlWCOonYMsOap  
 
 ---
 
 ## 👥 Team SheStorm
 
-| Name           | Role                              |
-|---------------|-----------------------------------|
-| Yamini        | Frontend & UX                     |
-| Ishani Gupta  | Backend & API Development         |
-| Madhu Tiwari  | AI / Machine Learning             |
-| Khushi Verma  | Research, Documentation & Testing |
-
-📌 This project was collaboratively researched, architected, and implemented by **Team SheStorm**.
+| Name | Role |
+|------|------|
+| Yamini | Frontend & UX |
+| Ishani Gupta | Backend & APIs |
+| Madhu Tiwari | AI / ML |
+| Khushi Verma | Research & Testing |
 
 ---
 
-# 📌 Problem Statement
+## 🚨 Problem
 
-## 🛑 Real-Time Audio Fraud Detection for Scam Prevention
+Voice fraud has evolved into **AI-driven psychological manipulation**:
 
-Voice fraud has evolved from simple scam calls into **AI-powered psychological attacks**.
+- 🎭 Voice cloning in seconds  
+- 🤖 AI-driven scam conversations  
+- 📞 Caller ID spoofing  
+- 🧠 Emotional exploitation  
 
-By 2026:
+❌ Traditional systems ask:  
+> “Is the voice fake?”
 
-- Voices can be cloned in seconds  
-- AI agents conduct full persuasive conversations  
-- Phone numbers are trivially spoofed  
-- Victims are manipulated emotionally, not technically  
-
-Yet most systems still ask:
-
-> “Is this voice fake?”
-
-❌ That question is no longer enough.
+✅ We ask:  
+> “Is the intent malicious?”
 
 ---
 
-# ✅ Our Approach
+## 💡 Our Approach
 
-We introduce a **Real-Time Audio Fraud Detection System** that focuses on detecting **fraudulent intent and manipulative behavior during live conversations** before irreversible financial actions occur.
+FemtoGuard detects **fraud in real-time** by analyzing:
 
-Instead of identifying the caller, we identify the **conversation pattern**.
+- 🧠 Intent  
+- 🎭 Behavior  
+- 💬 Conversation patterns  
 
----
-
-# 🧠 Core Philosophy
-
-## Shift from *Identity → Intent*
-
-Traditional systems focus on:
-
-- Who is calling  
-- Whether the voice is real  
-- Whether the number is known  
-
-Our system focuses on:
-
-- **Why** the caller is calling  
-- **What** they want the user to do  
-- **How** they manipulate emotions  
-
-📌 Numbers can be spoofed.  
-📌 Voices can be cloned.  
-📌 **Intent cannot hide.**
+📌 We don’t detect the caller — we detect the **conversation itself**.
 
 ---
 
-# 🔍 How Fraud is Detected
+## 🧠 Core Idea
 
-## 1️⃣ Intent Detection – *What is being said*
+### 🔄 Identity → Intent Shift
 
-Analyzes:
-
-- Authority phrases (bank, officer, government)  
-- Urgency cues (now, immediately, final notice)  
-- Financial triggers (OTP, PIN, transfer)  
-- Isolation tactics (“don’t hang up”, “don’t tell anyone”)  
-
-📌 Detection is based on **intent combinations**, not isolated keywords.
+| Traditional Systems | FemtoGuard |
+|--------------------|-----------|
+| Who is calling? | Why are they calling? |
+| Is voice real? | What are they asking? |
+| Known number? | How are they manipulating? |
 
 ---
 
-## 2️⃣ Behavioral Analysis – *How it is said*
+## 🔍 Detection Engine
 
-Detects:
+### 1️⃣ Intent Detection
+- Authority phrases (bank, officer)  
+- Urgency cues (immediately, now)  
+- Financial triggers (OTP, PIN)  
+- Isolation tactics  
 
-- Rapid scripted speech  
-- Repetition patterns  
+---
+
+### 2️⃣ Behavioral Analysis
+- Scripted speech patterns  
+- Repetition loops  
 - Interruptions  
-- Dominant tone escalation  
-
-📌 Scammers follow scripts. Normal conversations adapt dynamically.
+- Dominant tone  
 
 ---
 
-## 3️⃣ Emotional Manipulation Detection
-
-Detects:
-
+### 3️⃣ Emotional Manipulation
 - Fear induction  
-- Stress mismatch  
-- Aggression inconsistent with role  
+- Pressure tactics  
+- Aggression mismatch  
 
-📌 A “bank agent” using threats = **High-risk indicator**
-
----
-
-# 🆚 Detection Comparison
-
-## ❌ Number-Based Detection
-
-- Depends on blacklists  
-- Easily bypassed  
-- Fails on first-time calls  
-
-## ✅ Conversation-Based Detection (Our System)
-
-- Ignores phone numbers  
-- Analyzes live dialogue  
-- Detects fraud immediately  
-
-📌 Fraud is revealed by **conversation behavior**, not caller ID.
+📌 “Bank agent threatening user” = 🚨 High Risk  
 
 ---
 
-# 🏆 Competitive Advantage
+## 🧠 AI Pipeline
 
-| Competitor     | Strength           | Limitation              | Our Advantage                          |
-|---------------|-------------------|--------------------------|------------------------------------------|
-| Pindrop       | Voice liveness     | Misses intent            | Intent + behavior analysis               |
-| BioCatch      | User behavior      | Post-event detection     | Real-time manipulation detection         |
-| Nuance        | IVR security       | High latency             | Edge-ready lightweight system            |
-| Call Blockers | Number blacklists  | Easily spoofed           | Conversation intelligence-based detection|
-
----
-
-# ⚙️ System Architecture
-
-Live Audio Stream
-↓
-Acoustic Feature Extraction
-↓
-Real-Time Transcription
-↓
-Intent Analysis (NLP / LLM)
-↓
-Behavior & Emotion Analysis
-↓
-Risk Scoring Engine
-↓
-User Alert & Prevention
-
+```mermaid
+flowchart TD
+    A["🎙 Audio Stream"] --> B["📊 Feature Extraction"]
+    B --> C["🧠 Speech-to-Text"]
+    
+    C --> D["📌 Intent Detection"]
+    C --> E["🎭 Behavior Analysis"]
+    C --> F["💥 Emotion Detection"]
+    
+    D --> G["⚠️ Risk Engine"]
+    E --> G
+    F --> G
+    
+    G --> H["🚨 Real-Time Alerts"]
+```
 
 ---
 
-# 🧠 AI / ML Pipeline
+## ⚙️ System Architecture
 
-## 🔹 Acoustic Layer
-- MFCC & spectrogram features  
-- Vocoder artifact detection  
-- Noise-robust preprocessing  
-
-## 🔹 Semantic Layer
-- Streaming ASR  
-- Lightweight NLP / LLM classifier  
-- Intent categorization  
-
-## 🔹 Behavioral Layer
-- Speech cadence analysis  
-- Command repetition detection  
-
-## 🔹 Risk Engine
-- Multi-signal aggregation  
-- Continuous risk scoring  
-- Threshold-based alerts  
+```text
+Audio Input
+   ↓
+Feature Extraction
+   ↓
+Transcription
+   ↓
+Intent + Behavior + Emotion Analysis
+   ↓
+Risk Scoring
+   ↓
+User Alert System
+```
 
 ---
 
-# 🖥️ Backend Architecture
+## 📊 Before vs After Fraud Detection
 
-### Tech Stack
-- Python (FastAPI)  
-- WebSockets (live streaming)  
+### 🎯 Scenario: Scam Call Attempt
+
+---
+
+### ❌ Before (Traditional Systems)
+
+**Call Transcript:**
+> "Hello ma'am, I am calling from your bank. Your account will be blocked immediately. Please share your OTP to verify."
+
+**System Response:**
+- Caller ID: Unknown ❓  
+- Voice: Human-like ✅  
+- Blacklist match: ❌  
+
+📌 **Result:** No alert  
+🚨 **User Outcome:** High scam risk  
+
+---
+
+### ✅ After (FemtoGuard)
+
+| Signal Type        | Detection |
+|-------------------|----------|
+| Authority Claim    | Bank detected |
+| Urgency Cue        | Immediate |
+| Financial Trigger  | OTP |
+| Tone Analysis      | Aggressive |
+
+```text
+Risk Score: 92% (HIGH RISK)
+```
+
+🚨 **Alert:**
+> ⚠️ "Potential scam detected. Do NOT share sensitive information."
+
+---
+
+### 💡 Impact
+
+| Aspect | Before | FemtoGuard |
+|-------|--------|-----------|
+| Detection | Caller-based | Intent-based |
+| Speed | Slow | Real-time |
+| Accuracy | Low | High |
+| Protection | ❌ | ✅ |
+
+---
+
+## 🛠 Tech Stack
+
+### 🧠 AI / ML
+- Speech features (MFCC, spectrogram)
+- NLP / LLM models
+- Real-time inference
+
+### ⚙️ Backend
+- FastAPI  
+- WebSockets  
 - REST APIs  
 
-### Responsibilities
-- Audio chunk ingestion  
-- Model inference  
-- Risk aggregation  
-- Alert triggering  
-- Event logging  
+### 🎨 Frontend
+- Live dashboard  
+- Risk meter  
+- Alerts  
 
----
-
-# 🎨 Frontend Architecture
-
-## Web Dashboard
-- Live transcript  
-- Highlighted risky phrases  
-- Dynamic risk meter  
-- Real-time alert notifications  
-
-## Mobile UI (Concept)
-- Floating warning alerts  
-- Vibration notifications  
-- Voice alerts  
-- Elder-friendly interface  
-
----
-
-# 🗄️ Database Design
-
-### Database
+### 🗄 Database
 - PostgreSQL / SQLite  
 
-### Stores
-- Call metadata  
-- Risk events  
-- Transcript snapshots  
-- Analytics logs  
+---
 
-Optional:
-- Vector database for scam phrase embeddings  
+## ✨ Key Features
+
+- ⚡ Real-time fraud detection  
+- 🔐 No prior enrollment  
+- 🧠 AI + human scam detection  
+- 🌍 Works on first call  
+- 🔊 Noise tolerant  
 
 ---
 
-# 🧪 Dataset Strategy
+## 🧪 Dataset
 
-## Why Synthetic Data?
-- Privacy constraints  
-- Scarcity of real scam datasets  
-- Controlled experimentation  
-
-## Dataset Includes
-- Scam & normal conversation scripts  
-- Emotional tone variations  
-- Noise profiles  
-- Multi-language samples  
-
-Labels:
-- `0` → Safe  
-- `1` → Scam  
+- Synthetic scam conversations  
+- Multi-language support  
+- Emotional variations  
 
 ---
 
-# ✨ Key Features
+## 🚀 Future Scope
 
-- Real-time fraud detection  
-- No prior user enrollment required  
-- Works on first-time calls  
-- Detects both human & AI-based scams  
-- Noise & accent tolerant  
-- Conversation intelligence driven  
+- 📱 Mobile integration  
+- 🌍 Multilingual support  
+- 📡 Telecom deployment  
+- 🧠 Deep learning upgrades  
 
 ---
 
-# 🚀 Deployment & Future Scope
+## 🧑‍💻 Run Locally
 
-- Cross-platform fraud detection  
-- Telecom-level integration  
-- AI watermark detection  
-- Multilingual expansion  
-- Regulatory compliance (GDPR / CCPA)  
+```bash
+npm install
+```
 
----
+Add API key in `.env.local`
 
-# 🧑‍💻 Run Locally
-
-### Prerequisites
-- Node.js  
-
-### Setup
-
-1. Install dependencies:
-   ```bash
-   npm install
-   
-2. Add your Gemini API key to:
-   .env.local
-
-3. Run the app:
- npm run dev
+```bash
+npm run dev
+```
 
 ---
 
-🏁 Conclusion
+## 🏁 Conclusion
 
-Voice fraud is no longer an audio problem.
-It is a human manipulation problem.
+> Voice fraud is not an audio problem.  
+> It is a **human manipulation problem**.
 
-Our system acts as a Real-Time Conversation Firewall, protecting users before trust is exploited.
+🛡️ FemtoGuard acts as a **Real-Time Conversation Firewall**  
+— stopping fraud *before damage happens.*
 
 ---
+
+<!-- 🌊 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
